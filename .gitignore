@@ -1,0 +1,14 @@
+env/
+moviereviews/__pycache__
+moviereviews/app/__pycache__
+moviereviews/app/api/__pycache__
+moviereviews/app/migrations/__pycache__
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+*.log
+*.pot
+*.pyc
